@@ -1,0 +1,30 @@
+{
+  "books": [
+    {
+      "name": "Bipul Chandro Roy",
+      "author": "snigdha roy",
+      "thumbnail": "https://ysseglobal.org/blog/wp-content/uploads/2021/09/240700975_346264157283648_583353095573121328_n.jpg",
+      "price": "200",
+      "rating": "5",
+      "featured": "true",
+      "id": 4
+    },
+    {
+      "thumbnail": "https://i0.wp.com/www.newdelhitimes.com/wp-content/uploads/2022/05/kiara-advani-stills-photos-pictures-382.webp?fit=700%2C700&ssl=1",
+      "name": "Kiara advani",
+      "author": "bipul chandro roy",
+      "price": "15000",
+      "rating": "4",
+      "id": 5
+    },
+    {
+      "name": "Kiara Advani",
+      "thumbnail": "https://i0.wp.com/www.newdelhitimes.com/wp-content/uploads/2022/05/kiara-advani-stills-photos-pictures-382.webp?fit=700%2C700&ssl=1",
+      "author": "Bipul Chandro Roy",
+      "price": "80000",
+      "rating": "5",
+      "featured": "true",
+      "id": 6
+    }
+  ]
+}
